@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driverClassName: com.sybase.jdbc3.jdbc.SybDriver
+    url: jdbc:sybase:Tds:testdb:8888/testcatalog
+    username: test
+    password: test
